@@ -11,3 +11,6 @@ And, kubeadm-config is a script which is used to configure stand-alone kubernete
 
 # sh kubeadm-config.sh
 
+we can configure the weave network using below command and file.
+
+# kubectl apply -f weave-net.yaml
