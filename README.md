@@ -1,4 +1,4 @@
-# Snappyflow
+# Kubernetes install scripts on centos 7.x
 
 
 In this file we have the centos-prerequisites and kubeadm-config scripts that are useful for installing and deploying kubernetes in centos 7.x OS.
